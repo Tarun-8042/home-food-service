@@ -13,6 +13,7 @@ import Footer from './components/Footer';
 import CartDrawer from './components/CartDrawer';
 import FloatingCart from './components/FloatingCart';
 
+
 export default function App() {
 
   const [cartItems, setCartItems] = useState(() => {

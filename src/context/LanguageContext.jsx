@@ -52,6 +52,10 @@ export const TRANSLATIONS = {
     swipeToExplore: 'Swipe to see more delicacies',
     scrollLeft: 'Scroll left',
     scrollRight: 'Scroll right',
+    heroSlide5Tag: 'First Order Surprise Gift',
+    heroSlide5Title: 'Free Delivery + A Surprise Village Gift On Your First Order',
+    heroSlide5Sub: 'Choose any one free: Junnu (traditional milk sweet), Country Eggs, or Original Honey.',
+    heroSlide5Cta: 'Order Now',
 
     // Featured Collections
     ourCollectionsPill: 'Handpicked Favorites',
